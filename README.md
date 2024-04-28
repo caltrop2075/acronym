@@ -1,5 +1,8 @@
 # acronym
-acronym generator
+
+Acronym Stuff (AS)
+
+acronym generator & substitution
 
 acro-sub.awk
 --------------------------------------------------------------------------------
